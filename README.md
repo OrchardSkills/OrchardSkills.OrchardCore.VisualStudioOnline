@@ -2,7 +2,7 @@
 
 VSCode in the Cloud with the Orchard Core Development Environment
 
-## YouTube Video(https://youtu.be/mzb2BgCD-vs)
+## [YouTube Video](https://youtu.be/mzb2BgCD-vs)
 
 [![OrchardSkillsYouTubeThumbNailVSOnline](https://user-images.githubusercontent.com/59172485/90466854-fb77b580-e0cf-11ea-9555-68fc2ad8a007.png)](https://youtu.be/mzb2BgCD-vs)
 
